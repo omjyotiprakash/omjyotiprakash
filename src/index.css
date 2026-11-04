@@ -11,12 +11,28 @@
 @custom-variant dark (&:is(.dark *));
 
 @layer base {
+  html,
+  body {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+
+  html::-webkit-scrollbar,
+  body::-webkit-scrollbar,
+  *::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Edge, Opera */
+    width: 0;
+    height: 0;
+  }
+
   html {
     color-scheme: light;
   }
+
   html.dark {
     color-scheme: dark;
   }
+
   body {
     background: var(--background);
     color: var(--foreground);
@@ -25,20 +41,31 @@
     line-height: var(--body-line);
     -webkit-font-smoothing: antialiased;
   }
-  h1, h2, h3, h4 {
+
+  h1,
+  h2,
+  h3,
+  h4 {
     font-family: var(--font-heading);
     font-weight: var(--heading-weight);
     line-height: var(--heading-line);
     letter-spacing: var(--heading-tracking);
     text-wrap: balance;
   }
+
   :focus-visible {
     outline: 2px solid var(--ring);
     outline-offset: 2px;
   }
+
   @media (prefers-reduced-motion: reduce) {
-    html { scroll-behavior: auto; }
-    *, *::before, *::after {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
       animation-duration: 0.01ms !important;
       transition-duration: 0.01ms !important;
     }
@@ -56,6 +83,7 @@
       opacity: 0;
       transform: translate3d(0, 0.9rem, 0);
     }
+
     to {
       opacity: 1;
       transform: none;
@@ -66,6 +94,7 @@
     from {
       transform: translate3d(0, 0, 0);
     }
+
     to {
       transform: translate3d(-50%, 0, 0);
     }
@@ -74,10 +103,12 @@
   /* A slow bob for the marks that sit on top of a picture. It never moves far
      enough to be noticed while reading — it keeps a still page breathing. */
   @keyframes tide {
+
     0%,
     100% {
       transform: translate3d(0, 0, 0) rotate(var(--tide-rotate, -2deg));
     }
+
     50% {
       transform: translate3d(0, -0.4rem, 0) rotate(var(--tide-rotate, -2deg));
     }
@@ -89,11 +120,9 @@
   }
 
   .current {
-    background-image: repeating-linear-gradient(
-      90deg,
-      color-mix(in oklch, var(--primary) 55%, transparent) 0 1.5px,
-      transparent 1.5px 4.5rem
-    );
+    background-image: repeating-linear-gradient(90deg,
+        color-mix(in oklch, var(--primary) 55%, transparent) 0 1.5px,
+        transparent 1.5px 4.5rem);
     background-size: 50% 100%;
     animation: current-flow 26s linear infinite;
   }
@@ -115,16 +144,20 @@
   }
 
   /* The marquee stops rather than slows when someone pauses it, and the
-     picture stops lifting when a hand is not there to lift it. */  @media (prefers-reduced-motion: reduce) {
+     picture stops lifting when a hand is not there to lift it. */
+  @media (prefers-reduced-motion: reduce) {
+
     .current,
     .tide {
       animation: none !important;
     }
+
     .rise {
       animation: none !important;
       opacity: 1;
       transform: none;
     }
+
     .plate:hover {
       transform: rotate(var(--plate-tilt, 0deg));
     }
