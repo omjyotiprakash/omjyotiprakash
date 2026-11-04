@@ -3,6 +3,7 @@ import { Route, Routes } from 'react-router'
 import Home from '@/pages/Home'
 import { SiteHeader } from '@/components/SiteHeader'
 import { SiteFooter } from '@/components/SiteFooter'
+import { SmoothScroll } from '@/components/SmoothScroll'
 import { Toaster } from '@/components/ui/sonner'
 
 // Code-split pages for high performance and reduced initial bundle weight
@@ -42,6 +43,7 @@ export default function App() {
         Skip to main content
       </a>
 
+      <SmoothScroll />
       <SiteHeader />
 
       <div id="main-content" className="flex-1">

@@ -17,6 +17,7 @@ This repository houses the personal engineering website and technical headquarte
 - **Core Framework:** React 19 (Single Page Application architecture with React Router 8)
 - **Language:** TypeScript 5.9 (Strict mode enabled, type-safe models & schemas)
 - **Styling:** Tailwind CSS 4 with custom OKLCH semantic tokens (`theme.css`)
+- **Smooth Scrolling:** Lenis (Studio Freight inertia-based momentum scrolling)
 - **Typography:** Fraunces (Editorial display serif) + Inter (Clean UI sans) + JetBrains Mono (Technical monospace)
 - **Animation & Motion:** Lightweight CSS keyframe physics and micro-interactions adhering to `prefers-reduced-motion`
 - **Iconography:** Lucide Icons & Custom SVG system
