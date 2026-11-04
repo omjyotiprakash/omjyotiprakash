@@ -1,0 +1,20 @@
+[
+  {
+    "file": "images/journal-and-pen.webp",
+    "photographer": "Eva Bronzini",
+    "provider": "pexels",
+    "source_url": "https://www.pexels.com/photo/white-notebook-on-the-table-8058548/"
+  },
+  {
+    "file": "images/writing-code.webp",
+    "photographer": "Pexels",
+    "provider": "pixabay",
+    "source_url": "https://pixabay.com/photos/code-coding-computer-data-1839406/"
+  },
+  {
+    "file": "images/workspace.webp",
+    "photographer": "https://kaboompics.com/",
+    "provider": "pexels",
+    "source_url": "https://www.pexels.com/photo/laptop-and-notebook-on-brown-wooden-table-8092461/"
+  }
+]

@@ -1,0 +1,139 @@
+@import "./fonts.css";
+@import "tailwindcss";
+/* The enter/exit keyframes the ui primitives animate with. */
+@import "tw-animate-css";
+/* The token contract: a new art direction rewrites that file, never this one. */
+@import "./theme.css";
+
+/* Two schemes, the visitor's to choose: `dark:` binds to the `dark` class the
+   toggle sets on <html> and stores. Nothing sets it from the OS setting — a page
+   nobody asked to repaint should not repaint itself. */
+@custom-variant dark (&:is(.dark *));
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color-scheme: light;
+  }
+  html.dark {
+    color-scheme: dark;
+  }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-body);
+    font-size: var(--body-size);
+    line-height: var(--body-line);
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-heading);
+    font-weight: var(--heading-weight);
+    line-height: var(--heading-line);
+    letter-spacing: var(--heading-tracking);
+    text-wrap: balance;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+/* ── The drift ────────────────────────────────────────────────────────────
+   Motion here does one job: content settles into the page instead of being
+   painted onto it. `.rise` is the enter, `.flow` is the current running
+   under a section, `.plate` is a picture with weight. Every one of them ends
+   in the normal, static state — with motion off the page is simply the page. */
+@layer components {
+  @keyframes rise-in {
+    from {
+      opacity: 0;
+      transform: translate3d(0, 0.9rem, 0);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @keyframes current-flow {
+    from {
+      transform: translate3d(0, 0, 0);
+    }
+    to {
+      transform: translate3d(-50%, 0, 0);
+    }
+  }
+
+  /* A slow bob for the marks that sit on top of a picture. It never moves far
+     enough to be noticed while reading — it keeps a still page breathing. */
+  @keyframes tide {
+    0%,
+    100% {
+      transform: translate3d(0, 0, 0) rotate(var(--tide-rotate, -2deg));
+    }
+    50% {
+      transform: translate3d(0, -0.4rem, 0) rotate(var(--tide-rotate, -2deg));
+    }
+  }
+
+  .rise {
+    animation: rise-in var(--motion-drift) var(--ease-water) both;
+    animation-delay: calc(var(--rise-order, 0) * 90ms);
+  }
+
+  .current {
+    background-image: repeating-linear-gradient(
+      90deg,
+      color-mix(in oklch, var(--primary) 55%, transparent) 0 1.5px,
+      transparent 1.5px 4.5rem
+    );
+    background-size: 50% 100%;
+    animation: current-flow 26s linear infinite;
+  }
+
+  .tide {
+    animation: tide 9s var(--ease-water) infinite;
+    animation-delay: var(--tide-delay, 0s);
+  }
+
+  .plate {
+    box-shadow: var(--shadow-plate);
+    transition:
+      transform var(--motion-slow) var(--ease-water),
+      box-shadow var(--motion-slow) var(--ease-water);
+  }
+
+  .plate:hover {
+    transform: translate3d(0, -0.35rem, 0) rotate(var(--plate-tilt, 0deg));
+  }
+
+  /* The marquee stops rather than slows when someone pauses it, and the
+     picture stops lifting when a hand is not there to lift it. */  @media (prefers-reduced-motion: reduce) {
+    .current,
+    .tide {
+      animation: none !important;
+    }
+    .rise {
+      animation: none !important;
+      opacity: 1;
+      transform: none;
+    }
+    .plate:hover {
+      transform: rotate(var(--plate-tilt, 0deg));
+    }
+  }
+
+  @media (hover: none) {
+    .plate:hover {
+      transform: rotate(var(--plate-tilt, 0deg));
+    }
+  }
+}
