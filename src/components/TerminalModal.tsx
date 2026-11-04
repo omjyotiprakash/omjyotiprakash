@@ -437,3 +437,4 @@ export function TerminalModal({ open, onClose }: TerminalModalProps) {
     </div>
   )
 }
+
