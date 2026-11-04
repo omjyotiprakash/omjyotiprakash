@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react'
 import { Link } from 'react-router'
-import { ArrowUpRight, Search, BookOpen, Clock, Calendar, Tag } from 'lucide-react'
+import { ArrowUpRight, Search, Clock, Calendar } from 'lucide-react'
 import { articles } from '@/data/articles'
 import { Meta } from '@/components/Meta'
 
