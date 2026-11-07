@@ -1,4 +1,4 @@
-# Hi, I'm Om Jyoti Prakash 👋
+# Hi, I'm OM Jyoti Prakash 👋
 
 **Full Stack Developer | React • MERN • Building Real World Projects**
 📍 Bhubaneswar, Odisha, India · 🎓 Nalanda Institute of Technology
