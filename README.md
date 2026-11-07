@@ -1,6 +1,6 @@
 # Hi, I'm OM Jyoti Prakash 👋
 
-**Full Stack Developer | React • MERN • Building Real World Projects**
+**Full Stack Developer · React, Node.js & MongoDB · I build fast, clean web apps that solve real problems**
 📍 Bhubaneswar, Odisha, India · 🎓 Nalanda Institute of Technology
 
 > I build software that makes complex things feel simple.
