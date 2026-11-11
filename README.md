@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=3000&pause=1000&color=E8533A&center=true&vCenter=true&width=620&lines=I+build+software+that+makes+complex+things+feel+simple.;Full+Stack+Developer+%C2%B7+React+%2B+Node.js+%2B+MongoDB;Building+QuickNote+%E2%80%94+a+social+platform+for+cinema+%26+books;Open+to+full-stack+developer+opportunities)](https://github.com/omjyotiprakash)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=3000&pause=1000&color=E8533A&center=true&vCenter=true&width=820&lines=I+build+software+that+makes+complex+things+feel+simple.;Full+Stack+Developer+%C2%B7+React+%2B+Node.js+%2B+MongoDB;Building+QuickNote+%E2%80%94+a+social+platform+for+cinema+%26+books;Open+to+full-stack+developer+opportunities)](https://github.com/omjyotiprakash)
 
 📍 Bhubaneswar, Odisha, India &nbsp;·&nbsp; 🎓 B.Tech CSE, Nalanda Institute of Technology
 
