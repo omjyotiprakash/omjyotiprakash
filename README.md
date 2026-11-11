@@ -129,12 +129,7 @@ Live at **[quicknote.co.in](https://www.quicknote.co.in)**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omjyotiprakash&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e8533a&icon_color=e8533a&text_color=c9c4bd&count_private=true&rank_icon=github" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjyotiprakash&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e8533a&text_color=c9c4bd&langs_count=6" alt="top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjyotiprakash&hide_border=true&background=0a0a0a&ring=e8533a&fire=e8533a&currStreakLabel=e8533a&sideLabels=c9c4bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f6a64" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=omjyotiprakash&hide_border=true&background=0a0a0a&ring=e8533a&fire=e8533a&currStreakLabel=e8533a&sideLabels=c9c4bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f6a64" alt="streak" />
 
 <br/><br/>
 
