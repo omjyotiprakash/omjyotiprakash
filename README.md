@@ -80,7 +80,7 @@ I'm a **MERN stack developer** from Bhubaneswar who likes shipping real products
 
 | Project | What it is | Links |
 |---|---|---|
-| 🟠 **QuickNote** | Full-stack social platform for notes, cinema, books, clubs and messaging | [Live](https://www.quicknote.co.in) · [Code](https://github.com/omjyotiprakash/notes_crud) |
+| 🟠 **QuickNote** | Full-stack social platform for notes, cinema, books, clubs and messaging | [Live](https://www.quicknote.co.in) |
 | 💼 **Portfolio (React + TypeScript)** | Personal engineering site built with React, TypeScript and Tailwind CSS | [Live](https://omjyotiprakash.vercel.app) |
 | 🌱 **React Portfolio** | My first React portfolio, where it all started | [Live](https://omjyotiprakashreactportfolio.netlify.app/) |
 
