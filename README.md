@@ -131,10 +131,6 @@ Live at **[quicknote.co.in](https://www.quicknote.co.in)**
 
 <img src="https://streak-stats.demolab.com/?user=omjyotiprakash&hide_border=true&background=0a0a0a&ring=e8533a&fire=e8533a&currStreakLabel=e8533a&sideLabels=c9c4bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f6a64" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjyotiprakash&bg_color=0a0a0a&color=c9c4bd&line=e8533a&point=ffffff&area=true&area_color=e8533a&hide_border=true&radius=8" alt="contribution graph" width="100%" />
-
 </div>
 
 <br/>
