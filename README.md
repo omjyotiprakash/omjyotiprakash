@@ -1,108 +1,160 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:e8533a&height=200&section=header&text=OM%20Jyoti%20Prakash&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Founder%20of%20QuickNote&descSize=18&descAlignY=60" alt="OM Jyoti Prakash banner" width="100%" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=20&duration=3000&pause=1000&color=E8533A&center=true&vCenter=true&width=820&lines=I+build+software+that+makes+complex+things+feel+simple.;Full+Stack+Developer+%C2%B7+React+%2B+Node.js+%2B+MongoDB;Building+QuickNote+%E2%80%94+a+social+platform+for+cinema+%26+books;Open+to+full-stack+developer+opportunities)](https://github.com/omjyotiprakash)
+<img src="assets/header.svg" alt="OM Jyoti Prakash — Full Stack Developer" width="100%" />
 
-📍 Bhubaneswar, Odisha, India &nbsp;·&nbsp; 🎓 B.Tech CSE, Nalanda Institute of Technology
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://omjyotiprakash.vercel.app)
-[![QuickNote](https://img.shields.io/badge/QuickNote-E8533A?style=for-the-badge&logo=readme&logoColor=white)](https://www.quicknote.co.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omjyotiprakash)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omjyotiprakash4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logoColor=e8533a&logo=vercel)](https://omjyotiprakash.vercel.app)&nbsp;
+[![QuickNote](https://img.shields.io/badge/QUICKNOTE-e8533a?style=for-the-badge&logoColor=0a0a0a&logo=readme)](https://www.quicknote.co.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logoColor=e8533a&logo=linkedin)](https://www.linkedin.com/in/omjyotiprakash)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logoColor=e8533a&logo=gmail)](mailto:omjyotiprakash4@gmail.com)
+
+<br/>
+
+<a href="https://github.com/omjyotiprakash"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=2800&pause=900&color=E8533A&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Founder+of+QuickNote+%E2%80%94+a+social+platform+for+cinema+%26+books;Real-time+chat+%C2%B7+payments+%C2%B7+push+notifications+%C2%B7+shipped+solo;Open+to+full-stack+developer+opportunities" alt="typing intro" /></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
 
-I'm a **MERN stack developer** from Bhubaneswar who likes shipping real products, not just tutorials. I started QuickNote as a simple notes CRUD app and grew it into a full social platform, with auth, real-time chat, payments, push notifications and SEO, all built and deployed by myself.
+### 👨‍💻 About
 
-- 🔭 Currently building **QuickNote**: notes, cinema, books, clubs, messaging and profiles
-- 🎯 Looking for a **full-stack developer role** where I can own features end to end
-- 🌱 Getting better at TypeScript, system design and performance
-- ⚡ Fun fact: all movie and book data on QuickNote was added by me by hand
+I'm a **Full Stack Developer** from Bhubaneswar who ships real products, not tutorials.
 
----
+QuickNote started as a weekend notes app. I grew it into a full social platform with auth, real-time chat, payments, push notifications and SEO, every part designed, built and deployed by me.
 
-## 🚀 Featured Project: QuickNote
+- 🎯 Looking for a full-stack role where I **own features end to end**
+- 🌱 Levelling up in **TypeScript, system design and performance**
+- ⚡ Fun fact: every movie and book on QuickNote was added **by hand**
 
-> A full-stack social platform that started as a notes app. **Live at [quicknote.co.in](https://www.quicknote.co.in)**
+</td>
+<td width="50%" valign="top">
+
+### 🧭 How I work
 
 | | |
 |---|---|
-| **Social** | Feed with likes, comments and replies · follow / private accounts · notifications · `@username` tagging |
-| **Cinema & Books** | Movie and book discovery · ratings · cast & crew pages · news and discussions |
-| **Real-time** | Messaging built with Socket.io · Firebase push notifications |
-| **Auth & Security** | Email OTP · JWT with expiry handling · bcrypt · rate limiting |
-| **Payments** | Razorpay integration for premium badges |
-| **Performance & SEO** | React Query caching · optimistic updates · skeleton loaders · sitemap and Search Console |
-| **UI** | Dark / light themes · Framer Motion animations · responsive on mobile and desktop |
+| **Ship it** | Live product > perfect plan. Deploy, measure, improve. |
+| **Keep it simple** | Fewer moving parts, fewer bugs. |
+| **Design matters** | A feature isn't done until it feels good to use. |
+| **Own it** | Frontend, backend, database, deploy, domain. All of it. |
 
-**Stack:** React · Node.js · Express · MongoDB Atlas · Socket.io · Cloudinary · Vercel · Render · Cloudflare
+</td>
+</tr>
+</table>
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
----
-
-## 📂 Projects
-
-| Project | What it is | Links |
-|---|---|---|
-| 🟠 **QuickNote** | Full-stack social platform for notes, cinema, books, clubs and messaging | [Live](https://www.quicknote.co.in) |
-| 💼 **Portfolio (React + TypeScript)** | Personal engineering site built with React, TypeScript and Tailwind CSS | [Live](https://omjyotiprakash.vercel.app) |
-| 🌱 **React Portfolio** | My first React portfolio, where it all started | [Live](https://omjyotiprakashreactportfolio.netlify.app/) |
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omjyotiprakash&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e8533a&icon_color=e8533a&text_color=c9c9c9&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjyotiprakash&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e8533a&text_color=c9c9c9" alt="Top languages" />
+## 🟠 Featured · QuickNote
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjyotiprakash&hide_border=true&background=0a0a0a&ring=e8533a&fire=e8533a&currStreakLabel=e8533a&sideLabels=c9c9c9&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub streak" />
+**A full-stack social platform for notes, cinema, books, clubs and messaging.**
+Live at **[quicknote.co.in](https://www.quicknote.co.in)**
 
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-## 📫 Let's Connect
+**💬 Social**<br/>
+<sub>Feed · likes · comments & replies<br/>follow / private accounts<br/>notifications · @mentions</sub>
 
-I'm **open to full-stack developer opportunities**. If you have a role, a project or just want to talk code, reach out.
+</td>
+<td align="center" width="25%">
 
-📧 [omjyotiprakash4@gmail.com](mailto:omjyotiprakash4@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/omjyotiprakash) &nbsp;·&nbsp; 🌐 [Portfolio](https://omjyotiprakash.vercel.app)
+**🎬 Cinema & Books**<br/>
+<sub>discovery · ratings<br/>cast & crew pages<br/>news & discussions</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8533a,100:0a0a0a&height=100&section=footer" alt="footer" width="100%" />
+</td>
+<td align="center" width="25%">
+
+**⚡ Real-time**<br/>
+<sub>Socket.io messaging<br/>Firebase push notifications<br/>optimistic UI</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🔐 Auth & Payments**<br/>
+<sub>email OTP · JWT · bcrypt<br/>rate limiting<br/>Razorpay premium badges</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>**React · Node.js · Express · MongoDB Atlas · Socket.io · React Query · Framer Motion · Cloudinary · Vercel · Render · Cloudflare**</sub>
+
+</div>
+
+<br/>
+
+## 🛠️ Stack
+
+<div align="center">
+
+**Frontend**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&theme=dark" alt="frontend" /></a>
+
+**Backend & Data**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&theme=dark" alt="backend" /></a>
+
+**Tools & Deploy**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode,figma&theme=dark" alt="tools" /></a>
+
+</div>
+
+<br/>
+
+## 📂 Projects
+
+| | Project | What it is | |
+|:-:|---|---|:-:|
+| 🟠 | **QuickNote** | Full-stack social platform — notes, cinema, books, clubs, real-time messaging, payments | [**Live ↗**](https://www.quicknote.co.in) |
+| 💼 | **Portfolio** | Personal engineering site · React, TypeScript, Tailwind CSS | [**Live ↗**](https://omjyotiprakash.vercel.app) |
+| 🌱 | **React Portfolio** | My first React build, where it all started | [**Live ↗**](https://omjyotiprakashreactportfolio.netlify.app/) |
+
+<br/>
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omjyotiprakash&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e8533a&icon_color=e8533a&text_color=c9c4bd&count_private=true&rank_icon=github" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjyotiprakash&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e8533a&text_color=c9c4bd&langs_count=6" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omjyotiprakash&hide_border=true&background=0a0a0a&ring=e8533a&fire=e8533a&currStreakLabel=e8533a&sideLabels=c9c4bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f6a64" alt="streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omjyotiprakash&bg_color=0a0a0a&color=c9c4bd&line=e8533a&point=ffffff&area=true&area_color=e8533a&hide_border=true&radius=8" alt="contribution graph" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's build something
+
+**Open to full-stack developer opportunities.** Role, freelance project, or just want to talk code — my inbox is open.
+
+[![Email](https://img.shields.io/badge/omjyotiprakash4%40gmail.com-e8533a?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:omjyotiprakash4@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e8533a)](https://www.linkedin.com/in/omjyotiprakash)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8533a,100:0a0a0a&height=90&section=footer" alt="" width="100%" />
+
+</div>
