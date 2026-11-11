@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logoColor=e8533a&logo=vercel)](https://omjyotiprakash.vercel.app)&nbsp;
-[![QuickNote](https://img.shields.io/badge/QUICKNOTE-e8533a?style=for-the-badge&logoColor=0a0a0a&logo=readme)](https://www.quicknote.co.in)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logoColor=e8533a&logo=linkedin)](https://www.linkedin.com/in/omjyotiprakash)&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logoColor=e8533a&logo=gmail)](mailto:omjyotiprakash4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8b5cf6?style=for-the-badge&logoColor=white&logo=vercel)](https://omjyotiprakash.vercel.app)&nbsp;
+[![QuickNote](https://img.shields.io/badge/QUICKNOTE-ec4899?style=for-the-badge&logoColor=white&logo=readme)](https://www.quicknote.co.in)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/omjyotiprakash)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-06b6d4?style=for-the-badge&logoColor=white&logo=gmail)](mailto:omjyotiprakash4@gmail.com)
 
 <br/>
 
-<a href="https://github.com/omjyotiprakash"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=2800&pause=900&color=E8533A&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Founder+of+QuickNote+%E2%80%94+a+social+platform+for+cinema+%26+books;Real-time+chat+%C2%B7+payments+%C2%B7+push+notifications+%C2%B7+shipped+solo;Open+to+full-stack+developer+opportunities" alt="typing intro" /></a>
+<a href="https://github.com/omjyotiprakash"><img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Founder+of+QuickNote+%E2%80%94+a+social+platform+for+cinema+%26+books;Real-time+chat+%C2%B7+payments+%C2%B7+push+notifications+%C2%B7+shipped+solo;Open+to+full-stack+developer+opportunities" alt="typing intro" /></a>
 
 </div>
 
@@ -51,7 +51,7 @@ QuickNote started as a weekend notes app. I grew it into a full social platform 
 
 <div align="center">
 
-## 🟠 Featured · QuickNote
+## 💜 Featured · QuickNote
 
 **A full-stack social platform for notes, cinema, books, clubs and messaging.**
 Live at **[quicknote.co.in](https://www.quicknote.co.in)**
@@ -119,7 +119,7 @@ Live at **[quicknote.co.in](https://www.quicknote.co.in)**
 
 | | Project | What it is | |
 |:-:|---|---|:-:|
-| 🟠 | **QuickNote** | Full-stack social platform — notes, cinema, books, clubs, real-time messaging, payments | [**Live ↗**](https://www.quicknote.co.in) |
+| 💜 | **QuickNote** | Full-stack social platform — notes, cinema, books, clubs, real-time messaging, payments | [**Live ↗**](https://www.quicknote.co.in) |
 | 💼 | **Portfolio** | Personal engineering site · React, TypeScript, Tailwind CSS | [**Live ↗**](https://omjyotiprakash.vercel.app) |
 | 🌱 | **React Portfolio** | My first React build, where it all started | [**Live ↗**](https://omjyotiprakashreactportfolio.netlify.app/) |
 
@@ -129,7 +129,7 @@ Live at **[quicknote.co.in](https://www.quicknote.co.in)**
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=omjyotiprakash&hide_border=true&background=0a0a0a&ring=e8533a&fire=e8533a&currStreakLabel=e8533a&sideLabels=c9c4bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f6a64" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=omjyotiprakash&hide_border=true&background=0b0f1a&ring=8b5cf6&fire=ec4899&currStreakLabel=22d3ee&sideLabels=c9c4bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f6a64" alt="streak" />
 
 </div>
 
@@ -141,11 +141,11 @@ Live at **[quicknote.co.in](https://www.quicknote.co.in)**
 
 **Open to full-stack developer opportunities.** Role, freelance project, or just want to talk code — my inbox is open.
 
-[![Email](https://img.shields.io/badge/omjyotiprakash4%40gmail.com-e8533a?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:omjyotiprakash4@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e8533a)](https://www.linkedin.com/in/omjyotiprakash)
+[![Email](https://img.shields.io/badge/omjyotiprakash4%40gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omjyotiprakash4@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omjyotiprakash)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8533a,100:0a0a0a&height=90&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:ec4899,100:22d3ee&height=90&section=footer" alt="" width="100%" />
 
 </div>
